@@ -1,3 +1,4 @@
+//insert data into mongo db
 db.products.insert({
     name:"Microsoft Surface",
     category:"Electronics",
